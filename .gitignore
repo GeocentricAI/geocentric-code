@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.geocentric/
+geocentric-gateway/.venv/
+Do not commit or push/

@@ -1,0 +1,253 @@
+{
+  "": {
+    "dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.d",
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.o",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/master.swiftdeps"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/App/GeocentricApp.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppResources.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppState.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/GeoEngine.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/Utils.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/Models.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/WorkModels.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/GitStatusProbe.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/LocalWorkspaceStore.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/SQLiteBrowser.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Advanced/MCPServerManagerView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ApprovalBannerView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ChatView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerCard.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerTextView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/HomeView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MathView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MessageBubbleView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/PlanView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/RichMarkdown.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ToolCallCardView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeViewerView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeWorkspaceView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/DiffView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/FileTreeView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/ToolLogView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/CommandPaletteView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/Components.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoLogo.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoTheme.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoAnimator.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoFloatingPanel.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoSpriteView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/RootView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Sidebar/IconRailView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/RichTextEditor.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkDesks.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkSurfaceView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceHeaderView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceSidebarView.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView.dia"
+  },
+  "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor.dia"
+  }
+}

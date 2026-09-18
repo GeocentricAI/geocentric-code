@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geocentric-gateway"
+version = "0.1.0"
+description = "Local Gateway daemon for Geocentric: a web chat UI, chat/job API, and scheduler backed entirely by Ollama models."
+requires-python = ">=3.9"
+dependencies = [
+    "geocentric",
+    "fastapi>=0.110",
+    "uvicorn>=0.27",
+    "requests>=2.31",
+]
+
+[project.scripts]
+geo-gateway = "geocentric_gateway.cli:main"
+
+[tool.setuptools]
+packages = ["geocentric_gateway"]
+
+[tool.setuptools.package-data]
+geocentric_gateway = ["web/*"]

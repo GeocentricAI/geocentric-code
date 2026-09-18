@@ -1,0 +1,1048 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp_GeocentricApp.bundle/KaTeX" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Resources/KaTeX"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp_GeocentricApp.bundle/KaTeX"
+        }
+      ]
+    },
+    "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp_GeocentricApp.bundle/PythonEngine" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Resources/PythonEngine"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp_GeocentricApp.bundle/PythonEngine"
+        }
+      ]
+    },
+    "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp_GeocentricApp.bundle/Sprites" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Resources/Sprites"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp_GeocentricApp.bundle/Sprites"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.GeocentricApp-arm64-apple-macosx15.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/sources",
+      "importPath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/App/GeocentricApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppResources.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/GeoEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/Utils.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/WorkModels.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/GitStatusProbe.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/LocalWorkspaceStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/SQLiteBrowser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Advanced/MCPServerManagerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ApprovalBannerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ChatView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerCard.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerTextView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/HomeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MathView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MessageBubbleView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/PlanView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/RichMarkdown.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ToolCallCardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeViewerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeWorkspaceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/DiffView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/FileTreeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/ToolLogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/CommandPaletteView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoLogo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoTheme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoAnimator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoFloatingPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoSpriteView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/RootView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Sidebar/IconRailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/RichTextEditor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkDesks.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkSurfaceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceHeaderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceSidebarView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<GeocentricApp-arm64-apple-macosx15.0-release.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "GeocentricApp",
+      "moduleOutputPath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/Modules/GeocentricApp.swiftmodule",
+      "objects" : [
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView.swift.o",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "10",
+        "-serialize-diagnostics",
+        "-O",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "GeocentricApp_main",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "geocentricapp"
+      ],
+      "outputFileMapPath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/Modules/GeocentricApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/App/GeocentricApp.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppResources.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppState.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/GeoEngine.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/Utils.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/Models.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/WorkModels.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/GitStatusProbe.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/LocalWorkspaceStore.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/SQLiteBrowser.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Advanced/MCPServerManagerView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ApprovalBannerView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ChatView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerCard.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerTextView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/HomeView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MathView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MessageBubbleView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/PlanView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/RichMarkdown.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ToolCallCardView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeViewerView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeWorkspaceView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/DiffView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/FileTreeView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/ToolLogView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/CommandPaletteView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/Components.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoLogo.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoTheme.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoAnimator.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoFloatingPanel.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoSpriteView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/RootView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Sidebar/IconRailView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/RichTextEditor.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkDesks.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkSurfaceView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceHeaderView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceSidebarView.swift",
+        "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "GeocentricApp" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "GeocentricApp",
+      "-package-name",
+      "geocentricapp",
+      "-c",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/App/GeocentricApp.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppResources.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppState.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/GeoEngine.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/Utils.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/Models.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/WorkModels.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/GitStatusProbe.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/LocalWorkspaceStore.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/SQLiteBrowser.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Advanced/MCPServerManagerView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ApprovalBannerView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ChatView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerCard.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerTextView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/HomeView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MathView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MessageBubbleView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/PlanView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/RichMarkdown.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ToolCallCardView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeViewerView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeWorkspaceView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/DiffView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/FileTreeView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/ToolLogView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/CommandPaletteView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/Components.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoLogo.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoTheme.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoAnimator.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoFloatingPanel.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoSpriteView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/RootView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Sidebar/IconRailView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/RichTextEditor.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkDesks.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkSurfaceView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceHeaderView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceSidebarView.swift",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-serialize-diagnostics",
+      "-O",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "GeocentricApp_main",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "geocentricapp",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "GeocentricApp" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/App/GeocentricApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppResources.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/GeoEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Engine/Utils.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/Models.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Models/WorkModels.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/GitStatusProbe.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/LocalWorkspaceStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Stores/SQLiteBrowser.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Advanced/MCPServerManagerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ApprovalBannerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ChatView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerCard.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ComposerTextView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/HomeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MathView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/MessageBubbleView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/PlanView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/RichMarkdown.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Chat/ToolCallCardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeViewerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/CodeWorkspaceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/DiffView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/FileTreeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Code/ToolLogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/CommandPaletteView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/Components.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoLogo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Design/GeoTheme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoAnimator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoFloatingPanel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Mascot/GeoSpriteView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/RootView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Sidebar/IconRailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/RichTextEditor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkDesks.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/Work/WorkSurfaceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceHeaderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/Sources/GeocentricApp/Views/WorkspaceSidebarView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/sources"
+    },
+    "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppResources.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/AppState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ApprovalBannerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ChatView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeViewerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CodeWorkspaceView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/CommandPaletteView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Components.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerCard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ComposerTextView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/DiffView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/FileTreeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoAnimator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoFloatingPanel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoLogo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoSpriteView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeoTheme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GeocentricApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/GitStatusProbe.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/HomeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/IconRailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/LocalWorkspaceStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MCPServerManagerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MathView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/MessageBubbleView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Models.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/PlanView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichMarkdown.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RichTextEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/RootView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/SQLiteBrowser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolCallCardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/ToolLogView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/Utils.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkDesks.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkModels.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkSurfaceView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceHeaderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/WorkspaceSidebarView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.build/resource_bundle_accessor.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/GeocentricApp.product/Objects.LinkFileList"
+    },
+    "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/elywright/Documents/Geocentric Code/GeocentricApp/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
