@@ -243,3 +243,7 @@ geocentric/
   tools/          base, fs, search, shell, git, todo
   ui/             theme, render, diff, banner, funny_words
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
